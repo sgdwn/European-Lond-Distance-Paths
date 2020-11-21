@@ -1,1 +1,1 @@
-# European-Lond-Distance-Paths
+# European-Long-Distance-Paths
